@@ -1,2 +1,2 @@
-# QRCode-using-Google-Vision-API
-This is QRCode scanning application using google vision API
+# Mobile Vision API - GDG Uberaba
+This is the code of application using google vision API
